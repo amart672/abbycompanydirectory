@@ -37,7 +37,7 @@
         @apply text-3xl font-thin  tracking-wider text-slate-800;
       }
       &-job {
-        @apply -mt-2 text-xs font-bold text-yellow-700;
+        @apply -mt-2 text-xs font-bold text-blue-700;
       }
       &-quote {
         @apply pt-4 text-lg italic text-slate-800;
