@@ -1,3 +1,4 @@
+<!-- eslint-disable no-unused-vars -->
 <script setup>
   import { faker } from '@faker-js/faker'
 

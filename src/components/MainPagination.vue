@@ -4,14 +4,14 @@
   const activePage = ref(4)
 
   const prevPage = () => {
-   if (activePage.value > 1) {
-    activePage.value--
-   }
+    if (activePage.value > 1) {
+      activePage.value--
+    }
   }
   const nextPage = () => {
-   if (activePage.value < pages.value) {
-    activePage.value++
-   }
+    if (activePage.value < pages.value) {
+      activePage.value++
+    }
   }
 </script>
 
