@@ -1,4 +1,5 @@
 import { createRouter, createMemoryHistory } from 'vue-router'
+
 import { useAuth } from '@/composables/useAuth'
 const { isAuthenticated } = useAuth()
 
